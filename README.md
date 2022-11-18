@@ -98,4 +98,4 @@ void PrintArray(string[] array)
 > ![result](cmnd1.png)
 
 5. Коммиты есть:
-> ![commits](commits scr.png)
+> ![commits](commits_scr.png)
