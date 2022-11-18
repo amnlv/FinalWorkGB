@@ -23,4 +23,4 @@
 
 ## **Решение**
 1. Созданный репозитории `[FinalWorkGB](https://github.com/amnlv/FinalWorkGB)`.
-2. Блок-схема алгоритма:
+2. Блок-схема: ![Diagram](FinalDiagram.jpg)
