@@ -95,3 +95,4 @@ void PrintArray(string[] array)
 ```
 
 Результат вывода в терминал:
+![result](cmnd1.png)
