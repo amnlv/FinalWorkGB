@@ -22,11 +22,11 @@
 ***
 
 ## **Решение**
-1. Созданный репозитории `[FinalWorkGB](https://github.com/amnlv/FinalWorkGB)`.
+1. Созданный репозитории [`FinalWorkGB`](https://github.com/amnlv/FinalWorkGB).
 2. Блок-схема: 
-![Diagram](FinalDiagram.jpg)
+> ![Diagram](FinalDiagram.jpg)
 3. Файл `README.md` создан 
-4. Программа находится в ветке [`master`](/FinalWorkGB/Program.cs "Открыть решение")
+4. Программа находится в ветке [`main`](https://github.com/amnlv/FinalWorkGB/blob/main/Program.cs)
 
 Код программы:
 ```cs
@@ -95,4 +95,7 @@ void PrintArray(string[] array)
 ```
 
 Результат вывода в терминал:
-![result](cmnd1.png)
+> ![result](cmnd1.png)
+
+5. Коммиты есть:
+> ![commits](commits scr.png)
